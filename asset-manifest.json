@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/snow/static/css/main.12fdd0c2.css",
+    "main.js": "/snow/static/js/main.0d528634.js",
+    "static/js/787.9cb92e63.chunk.js": "/snow/static/js/787.9cb92e63.chunk.js",
+    "static/media/christmas_background.jpg": "/snow/static/media/christmas_background.bee5acf33f2c41c082eb.jpg",
+    "index.html": "/snow/index.html",
+    "main.12fdd0c2.css.map": "/snow/static/css/main.12fdd0c2.css.map",
+    "main.0d528634.js.map": "/snow/static/js/main.0d528634.js.map",
+    "787.9cb92e63.chunk.js.map": "/snow/static/js/787.9cb92e63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12fdd0c2.css",
+    "static/js/main.0d528634.js"
+  ]
+}
